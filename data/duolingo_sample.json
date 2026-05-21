@@ -1,0 +1,3604 @@
+{
+  "user": "demo_user",
+  "export_date": "2025-06-30",
+  "languages": {
+    "French": {
+      "current_streak": 1,
+      "longest_streak": 16,
+      "total_xp": 7478,
+      "sessions": [
+        {
+          "date": "2025-01-02",
+          "lessons_completed": 6,
+          "xp_earned": 124,
+          "accuracy": 0.88,
+          "duration_min": 21.5
+        },
+        {
+          "date": "2025-01-05",
+          "lessons_completed": 5,
+          "xp_earned": 75,
+          "accuracy": 0.76,
+          "duration_min": 13.6
+        },
+        {
+          "date": "2025-01-06",
+          "lessons_completed": 5,
+          "xp_earned": 83,
+          "accuracy": 0.8,
+          "duration_min": 14.8
+        },
+        {
+          "date": "2025-01-09",
+          "lessons_completed": 6,
+          "xp_earned": 100,
+          "accuracy": 0.91,
+          "duration_min": 22.9
+        },
+        {
+          "date": "2025-01-11",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.83,
+          "duration_min": 12.5
+        },
+        {
+          "date": "2025-01-12",
+          "lessons_completed": 2,
+          "xp_earned": 42,
+          "accuracy": 0.84,
+          "duration_min": 8.2
+        },
+        {
+          "date": "2025-01-14",
+          "lessons_completed": 3,
+          "xp_earned": 68,
+          "accuracy": 0.94,
+          "duration_min": 10.9
+        },
+        {
+          "date": "2025-01-15",
+          "lessons_completed": 6,
+          "xp_earned": 79,
+          "accuracy": 0.89,
+          "duration_min": 31.8
+        },
+        {
+          "date": "2025-01-16",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.84,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-01-17",
+          "lessons_completed": 6,
+          "xp_earned": 111,
+          "accuracy": 0.83,
+          "duration_min": 24.5
+        },
+        {
+          "date": "2025-01-19",
+          "lessons_completed": 4,
+          "xp_earned": 72,
+          "accuracy": 0.93,
+          "duration_min": 13.5
+        },
+        {
+          "date": "2025-01-21",
+          "lessons_completed": 5,
+          "xp_earned": 93,
+          "accuracy": 0.79,
+          "duration_min": 17.3
+        },
+        {
+          "date": "2025-01-22",
+          "lessons_completed": 5,
+          "xp_earned": 78,
+          "accuracy": 0.81,
+          "duration_min": 14.1
+        },
+        {
+          "date": "2025-01-23",
+          "lessons_completed": 4,
+          "xp_earned": 59,
+          "accuracy": 0.76,
+          "duration_min": 18.0
+        },
+        {
+          "date": "2025-01-24",
+          "lessons_completed": 2,
+          "xp_earned": 28,
+          "accuracy": 0.94,
+          "duration_min": 7.5
+        },
+        {
+          "date": "2025-01-25",
+          "lessons_completed": 6,
+          "xp_earned": 101,
+          "accuracy": 0.75,
+          "duration_min": 15.6
+        },
+        {
+          "date": "2025-01-26",
+          "lessons_completed": 5,
+          "xp_earned": 83,
+          "accuracy": 0.86,
+          "duration_min": 26.3
+        },
+        {
+          "date": "2025-01-27",
+          "lessons_completed": 1,
+          "xp_earned": 22,
+          "accuracy": 0.87,
+          "duration_min": 5.5
+        },
+        {
+          "date": "2025-01-28",
+          "lessons_completed": 2,
+          "xp_earned": 48,
+          "accuracy": 0.85,
+          "duration_min": 5.5
+        },
+        {
+          "date": "2025-01-29",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.7,
+          "duration_min": 9.1
+        },
+        {
+          "date": "2025-01-30",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.94,
+          "duration_min": 2.9
+        },
+        {
+          "date": "2025-01-31",
+          "lessons_completed": 6,
+          "xp_earned": 102,
+          "accuracy": 0.9,
+          "duration_min": 16.5
+        },
+        {
+          "date": "2025-02-01",
+          "lessons_completed": 6,
+          "xp_earned": 99,
+          "accuracy": 0.72,
+          "duration_min": 30.9
+        },
+        {
+          "date": "2025-02-02",
+          "lessons_completed": 5,
+          "xp_earned": 87,
+          "accuracy": 0.97,
+          "duration_min": 25.0
+        },
+        {
+          "date": "2025-02-03",
+          "lessons_completed": 3,
+          "xp_earned": 70,
+          "accuracy": 0.89,
+          "duration_min": 8.8
+        },
+        {
+          "date": "2025-02-05",
+          "lessons_completed": 6,
+          "xp_earned": 127,
+          "accuracy": 0.92,
+          "duration_min": 25.2
+        },
+        {
+          "date": "2025-02-06",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.94,
+          "duration_min": 4.7
+        },
+        {
+          "date": "2025-02-07",
+          "lessons_completed": 2,
+          "xp_earned": 42,
+          "accuracy": 0.97,
+          "duration_min": 6.5
+        },
+        {
+          "date": "2025-02-08",
+          "lessons_completed": 4,
+          "xp_earned": 70,
+          "accuracy": 0.79,
+          "duration_min": 13.2
+        },
+        {
+          "date": "2025-02-09",
+          "lessons_completed": 1,
+          "xp_earned": 19,
+          "accuracy": 0.93,
+          "duration_min": 4.9
+        },
+        {
+          "date": "2025-02-11",
+          "lessons_completed": 3,
+          "xp_earned": 58,
+          "accuracy": 0.85,
+          "duration_min": 11.9
+        },
+        {
+          "date": "2025-02-12",
+          "lessons_completed": 6,
+          "xp_earned": 109,
+          "accuracy": 0.96,
+          "duration_min": 25.6
+        },
+        {
+          "date": "2025-02-13",
+          "lessons_completed": 4,
+          "xp_earned": 69,
+          "accuracy": 0.77,
+          "duration_min": 17.0
+        },
+        {
+          "date": "2025-02-16",
+          "lessons_completed": 4,
+          "xp_earned": 64,
+          "accuracy": 0.73,
+          "duration_min": 19.7
+        },
+        {
+          "date": "2025-02-17",
+          "lessons_completed": 5,
+          "xp_earned": 85,
+          "accuracy": 0.96,
+          "duration_min": 19.9
+        },
+        {
+          "date": "2025-02-19",
+          "lessons_completed": 4,
+          "xp_earned": 56,
+          "accuracy": 0.8,
+          "duration_min": 16.2
+        },
+        {
+          "date": "2025-02-20",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.98,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-02-21",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.97,
+          "duration_min": 24.0
+        },
+        {
+          "date": "2025-02-24",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.76,
+          "duration_min": 3.0
+        },
+        {
+          "date": "2025-02-25",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.86,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-02-26",
+          "lessons_completed": 1,
+          "xp_earned": 22,
+          "accuracy": 0.96,
+          "duration_min": 4.6
+        },
+        {
+          "date": "2025-02-27",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.75,
+          "duration_min": 15.1
+        },
+        {
+          "date": "2025-02-28",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.71,
+          "duration_min": 6.5
+        },
+        {
+          "date": "2025-03-01",
+          "lessons_completed": 5,
+          "xp_earned": 75,
+          "accuracy": 0.73,
+          "duration_min": 17.3
+        },
+        {
+          "date": "2025-03-02",
+          "lessons_completed": 2,
+          "xp_earned": 43,
+          "accuracy": 0.91,
+          "duration_min": 5.6
+        },
+        {
+          "date": "2025-03-03",
+          "lessons_completed": 3,
+          "xp_earned": 56,
+          "accuracy": 0.83,
+          "duration_min": 9.0
+        },
+        {
+          "date": "2025-03-04",
+          "lessons_completed": 2,
+          "xp_earned": 34,
+          "accuracy": 0.9,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-03-05",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.95,
+          "duration_min": 5.8
+        },
+        {
+          "date": "2025-03-06",
+          "lessons_completed": 1,
+          "xp_earned": 22,
+          "accuracy": 0.94,
+          "duration_min": 4.4
+        },
+        {
+          "date": "2025-03-07",
+          "lessons_completed": 3,
+          "xp_earned": 62,
+          "accuracy": 0.73,
+          "duration_min": 10.8
+        },
+        {
+          "date": "2025-03-08",
+          "lessons_completed": 6,
+          "xp_earned": 102,
+          "accuracy": 0.77,
+          "duration_min": 22.4
+        },
+        {
+          "date": "2025-03-09",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.77,
+          "duration_min": 8.5
+        },
+        {
+          "date": "2025-03-10",
+          "lessons_completed": 4,
+          "xp_earned": 54,
+          "accuracy": 0.86,
+          "duration_min": 20.0
+        },
+        {
+          "date": "2025-03-11",
+          "lessons_completed": 2,
+          "xp_earned": 44,
+          "accuracy": 0.98,
+          "duration_min": 11.0
+        },
+        {
+          "date": "2025-03-13",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.93,
+          "duration_min": 16.3
+        },
+        {
+          "date": "2025-03-14",
+          "lessons_completed": 6,
+          "xp_earned": 102,
+          "accuracy": 0.92,
+          "duration_min": 32.0
+        },
+        {
+          "date": "2025-03-15",
+          "lessons_completed": 3,
+          "xp_earned": 57,
+          "accuracy": 0.76,
+          "duration_min": 12.6
+        },
+        {
+          "date": "2025-03-16",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.76,
+          "duration_min": 5.5
+        },
+        {
+          "date": "2025-03-17",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.87,
+          "duration_min": 23.1
+        },
+        {
+          "date": "2025-03-19",
+          "lessons_completed": 2,
+          "xp_earned": 22,
+          "accuracy": 0.89,
+          "duration_min": 8.1
+        },
+        {
+          "date": "2025-03-22",
+          "lessons_completed": 3,
+          "xp_earned": 64,
+          "accuracy": 0.73,
+          "duration_min": 11.2
+        },
+        {
+          "date": "2025-03-24",
+          "lessons_completed": 6,
+          "xp_earned": 97,
+          "accuracy": 0.9,
+          "duration_min": 25.3
+        },
+        {
+          "date": "2025-03-26",
+          "lessons_completed": 4,
+          "xp_earned": 63,
+          "accuracy": 0.93,
+          "duration_min": 20.4
+        },
+        {
+          "date": "2025-03-27",
+          "lessons_completed": 6,
+          "xp_earned": 114,
+          "accuracy": 0.84,
+          "duration_min": 24.5
+        },
+        {
+          "date": "2025-03-28",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.97,
+          "duration_min": 3.2
+        },
+        {
+          "date": "2025-03-29",
+          "lessons_completed": 1,
+          "xp_earned": 19,
+          "accuracy": 0.77,
+          "duration_min": 5.0
+        },
+        {
+          "date": "2025-03-30",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.77,
+          "duration_min": 5.0
+        },
+        {
+          "date": "2025-03-31",
+          "lessons_completed": 4,
+          "xp_earned": 75,
+          "accuracy": 0.94,
+          "duration_min": 18.6
+        },
+        {
+          "date": "2025-04-01",
+          "lessons_completed": 1,
+          "xp_earned": 24,
+          "accuracy": 0.84,
+          "duration_min": 4.0
+        },
+        {
+          "date": "2025-04-02",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.81,
+          "duration_min": 2.9
+        },
+        {
+          "date": "2025-04-03",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.91,
+          "duration_min": 6.0
+        },
+        {
+          "date": "2025-04-06",
+          "lessons_completed": 4,
+          "xp_earned": 65,
+          "accuracy": 0.79,
+          "duration_min": 12.9
+        },
+        {
+          "date": "2025-04-07",
+          "lessons_completed": 4,
+          "xp_earned": 73,
+          "accuracy": 0.84,
+          "duration_min": 21.5
+        },
+        {
+          "date": "2025-04-09",
+          "lessons_completed": 4,
+          "xp_earned": 59,
+          "accuracy": 0.72,
+          "duration_min": 15.2
+        },
+        {
+          "date": "2025-04-10",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.74,
+          "duration_min": 5.4
+        },
+        {
+          "date": "2025-04-13",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.94,
+          "duration_min": 4.4
+        },
+        {
+          "date": "2025-04-15",
+          "lessons_completed": 6,
+          "xp_earned": 88,
+          "accuracy": 0.77,
+          "duration_min": 15.7
+        },
+        {
+          "date": "2025-04-16",
+          "lessons_completed": 3,
+          "xp_earned": 39,
+          "accuracy": 0.87,
+          "duration_min": 16.1
+        },
+        {
+          "date": "2025-04-17",
+          "lessons_completed": 3,
+          "xp_earned": 50,
+          "accuracy": 0.82,
+          "duration_min": 12.1
+        },
+        {
+          "date": "2025-04-20",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.94,
+          "duration_min": 13.0
+        },
+        {
+          "date": "2025-04-21",
+          "lessons_completed": 6,
+          "xp_earned": 127,
+          "accuracy": 0.83,
+          "duration_min": 20.6
+        },
+        {
+          "date": "2025-04-22",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.97,
+          "duration_min": 7.4
+        },
+        {
+          "date": "2025-04-24",
+          "lessons_completed": 2,
+          "xp_earned": 40,
+          "accuracy": 0.84,
+          "duration_min": 6.7
+        },
+        {
+          "date": "2025-04-26",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.85,
+          "duration_min": 4.3
+        },
+        {
+          "date": "2025-04-27",
+          "lessons_completed": 6,
+          "xp_earned": 108,
+          "accuracy": 0.98,
+          "duration_min": 27.2
+        },
+        {
+          "date": "2025-04-29",
+          "lessons_completed": 6,
+          "xp_earned": 107,
+          "accuracy": 0.78,
+          "duration_min": 26.4
+        },
+        {
+          "date": "2025-04-30",
+          "lessons_completed": 6,
+          "xp_earned": 96,
+          "accuracy": 0.84,
+          "duration_min": 32.3
+        },
+        {
+          "date": "2025-05-01",
+          "lessons_completed": 4,
+          "xp_earned": 77,
+          "accuracy": 0.89,
+          "duration_min": 13.5
+        },
+        {
+          "date": "2025-05-02",
+          "lessons_completed": 3,
+          "xp_earned": 64,
+          "accuracy": 0.7,
+          "duration_min": 14.2
+        },
+        {
+          "date": "2025-05-04",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.82,
+          "duration_min": 10.9
+        },
+        {
+          "date": "2025-05-05",
+          "lessons_completed": 3,
+          "xp_earned": 57,
+          "accuracy": 0.76,
+          "duration_min": 11.3
+        },
+        {
+          "date": "2025-05-07",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.86,
+          "duration_min": 4.0
+        },
+        {
+          "date": "2025-05-10",
+          "lessons_completed": 4,
+          "xp_earned": 90,
+          "accuracy": 0.71,
+          "duration_min": 18.1
+        },
+        {
+          "date": "2025-05-11",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.85,
+          "duration_min": 2.8
+        },
+        {
+          "date": "2025-05-12",
+          "lessons_completed": 4,
+          "xp_earned": 78,
+          "accuracy": 0.81,
+          "duration_min": 19.2
+        },
+        {
+          "date": "2025-05-14",
+          "lessons_completed": 6,
+          "xp_earned": 101,
+          "accuracy": 0.93,
+          "duration_min": 24.2
+        },
+        {
+          "date": "2025-05-15",
+          "lessons_completed": 3,
+          "xp_earned": 58,
+          "accuracy": 0.85,
+          "duration_min": 14.8
+        },
+        {
+          "date": "2025-05-16",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.72,
+          "duration_min": 8.4
+        },
+        {
+          "date": "2025-05-17",
+          "lessons_completed": 5,
+          "xp_earned": 73,
+          "accuracy": 0.9,
+          "duration_min": 20.8
+        },
+        {
+          "date": "2025-05-19",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.89,
+          "duration_min": 3.1
+        },
+        {
+          "date": "2025-05-20",
+          "lessons_completed": 5,
+          "xp_earned": 84,
+          "accuracy": 0.74,
+          "duration_min": 20.3
+        },
+        {
+          "date": "2025-05-21",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.72,
+          "duration_min": 5.3
+        },
+        {
+          "date": "2025-05-22",
+          "lessons_completed": 4,
+          "xp_earned": 64,
+          "accuracy": 0.74,
+          "duration_min": 12.9
+        },
+        {
+          "date": "2025-05-23",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.88,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-05-25",
+          "lessons_completed": 2,
+          "xp_earned": 46,
+          "accuracy": 0.71,
+          "duration_min": 6.3
+        },
+        {
+          "date": "2025-05-26",
+          "lessons_completed": 1,
+          "xp_earned": 24,
+          "accuracy": 0.72,
+          "duration_min": 3.2
+        },
+        {
+          "date": "2025-05-27",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.7,
+          "duration_min": 10.2
+        },
+        {
+          "date": "2025-05-28",
+          "lessons_completed": 4,
+          "xp_earned": 72,
+          "accuracy": 0.89,
+          "duration_min": 18.1
+        },
+        {
+          "date": "2025-05-29",
+          "lessons_completed": 4,
+          "xp_earned": 76,
+          "accuracy": 0.92,
+          "duration_min": 12.9
+        },
+        {
+          "date": "2025-05-30",
+          "lessons_completed": 3,
+          "xp_earned": 47,
+          "accuracy": 0.97,
+          "duration_min": 10.1
+        },
+        {
+          "date": "2025-05-31",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.85,
+          "duration_min": 3.7
+        },
+        {
+          "date": "2025-06-01",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.82,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-06-02",
+          "lessons_completed": 4,
+          "xp_earned": 80,
+          "accuracy": 0.77,
+          "duration_min": 10.4
+        },
+        {
+          "date": "2025-06-03",
+          "lessons_completed": 3,
+          "xp_earned": 45,
+          "accuracy": 0.73,
+          "duration_min": 9.9
+        },
+        {
+          "date": "2025-06-05",
+          "lessons_completed": 4,
+          "xp_earned": 77,
+          "accuracy": 0.8,
+          "duration_min": 18.7
+        },
+        {
+          "date": "2025-06-06",
+          "lessons_completed": 5,
+          "xp_earned": 93,
+          "accuracy": 0.94,
+          "duration_min": 22.6
+        },
+        {
+          "date": "2025-06-09",
+          "lessons_completed": 4,
+          "xp_earned": 76,
+          "accuracy": 0.74,
+          "duration_min": 19.0
+        },
+        {
+          "date": "2025-06-10",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.91,
+          "duration_min": 4.8
+        },
+        {
+          "date": "2025-06-11",
+          "lessons_completed": 6,
+          "xp_earned": 92,
+          "accuracy": 0.92,
+          "duration_min": 19.2
+        },
+        {
+          "date": "2025-06-12",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.86,
+          "duration_min": 3.6
+        },
+        {
+          "date": "2025-06-13",
+          "lessons_completed": 3,
+          "xp_earned": 47,
+          "accuracy": 0.72,
+          "duration_min": 10.1
+        },
+        {
+          "date": "2025-06-15",
+          "lessons_completed": 3,
+          "xp_earned": 60,
+          "accuracy": 0.96,
+          "duration_min": 9.1
+        },
+        {
+          "date": "2025-06-16",
+          "lessons_completed": 6,
+          "xp_earned": 117,
+          "accuracy": 0.8,
+          "duration_min": 26.3
+        },
+        {
+          "date": "2025-06-17",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.96,
+          "duration_min": 4.7
+        },
+        {
+          "date": "2025-06-19",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.82,
+          "duration_min": 4.8
+        },
+        {
+          "date": "2025-06-20",
+          "lessons_completed": 6,
+          "xp_earned": 105,
+          "accuracy": 0.96,
+          "duration_min": 27.1
+        },
+        {
+          "date": "2025-06-21",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.93,
+          "duration_min": 4.8
+        },
+        {
+          "date": "2025-06-22",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.97,
+          "duration_min": 4.5
+        },
+        {
+          "date": "2025-06-23",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.82,
+          "duration_min": 14.2
+        },
+        {
+          "date": "2025-06-25",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.8,
+          "duration_min": 10.7
+        },
+        {
+          "date": "2025-06-26",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.82,
+          "duration_min": 12.1
+        },
+        {
+          "date": "2025-06-28",
+          "lessons_completed": 2,
+          "xp_earned": 29,
+          "accuracy": 0.75,
+          "duration_min": 6.0
+        },
+        {
+          "date": "2025-06-30",
+          "lessons_completed": 3,
+          "xp_earned": 43,
+          "accuracy": 0.8,
+          "duration_min": 11.2
+        }
+      ]
+    },
+    "Spanish": {
+      "current_streak": 5,
+      "longest_streak": 10,
+      "total_xp": 7214,
+      "sessions": [
+        {
+          "date": "2025-01-01",
+          "lessons_completed": 3,
+          "xp_earned": 53,
+          "accuracy": 0.89,
+          "duration_min": 9.6
+        },
+        {
+          "date": "2025-01-02",
+          "lessons_completed": 5,
+          "xp_earned": 92,
+          "accuracy": 0.95,
+          "duration_min": 14.6
+        },
+        {
+          "date": "2025-01-03",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.89,
+          "duration_min": 8.9
+        },
+        {
+          "date": "2025-01-06",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.7,
+          "duration_min": 7.9
+        },
+        {
+          "date": "2025-01-07",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.9,
+          "duration_min": 11.5
+        },
+        {
+          "date": "2025-01-08",
+          "lessons_completed": 3,
+          "xp_earned": 69,
+          "accuracy": 0.78,
+          "duration_min": 12.5
+        },
+        {
+          "date": "2025-01-09",
+          "lessons_completed": 4,
+          "xp_earned": 75,
+          "accuracy": 0.73,
+          "duration_min": 15.9
+        },
+        {
+          "date": "2025-01-10",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.8,
+          "duration_min": 5.5
+        },
+        {
+          "date": "2025-01-11",
+          "lessons_completed": 5,
+          "xp_earned": 71,
+          "accuracy": 0.71,
+          "duration_min": 18.4
+        },
+        {
+          "date": "2025-01-12",
+          "lessons_completed": 3,
+          "xp_earned": 43,
+          "accuracy": 0.92,
+          "duration_min": 15.0
+        },
+        {
+          "date": "2025-01-14",
+          "lessons_completed": 2,
+          "xp_earned": 41,
+          "accuracy": 0.76,
+          "duration_min": 5.8
+        },
+        {
+          "date": "2025-01-17",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.73,
+          "duration_min": 4.9
+        },
+        {
+          "date": "2025-01-20",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.84,
+          "duration_min": 4.0
+        },
+        {
+          "date": "2025-01-21",
+          "lessons_completed": 3,
+          "xp_earned": 43,
+          "accuracy": 0.75,
+          "duration_min": 11.5
+        },
+        {
+          "date": "2025-01-23",
+          "lessons_completed": 1,
+          "xp_earned": 24,
+          "accuracy": 0.83,
+          "duration_min": 3.2
+        },
+        {
+          "date": "2025-01-24",
+          "lessons_completed": 1,
+          "xp_earned": 23,
+          "accuracy": 0.74,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-01-25",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.95,
+          "duration_min": 18.0
+        },
+        {
+          "date": "2025-01-26",
+          "lessons_completed": 4,
+          "xp_earned": 74,
+          "accuracy": 0.85,
+          "duration_min": 16.2
+        },
+        {
+          "date": "2025-01-27",
+          "lessons_completed": 5,
+          "xp_earned": 79,
+          "accuracy": 0.87,
+          "duration_min": 17.0
+        },
+        {
+          "date": "2025-01-28",
+          "lessons_completed": 3,
+          "xp_earned": 58,
+          "accuracy": 0.94,
+          "duration_min": 12.3
+        },
+        {
+          "date": "2025-01-29",
+          "lessons_completed": 2,
+          "xp_earned": 41,
+          "accuracy": 0.89,
+          "duration_min": 5.9
+        },
+        {
+          "date": "2025-01-30",
+          "lessons_completed": 5,
+          "xp_earned": 107,
+          "accuracy": 0.77,
+          "duration_min": 15.9
+        },
+        {
+          "date": "2025-02-01",
+          "lessons_completed": 6,
+          "xp_earned": 95,
+          "accuracy": 0.9,
+          "duration_min": 19.1
+        },
+        {
+          "date": "2025-02-02",
+          "lessons_completed": 5,
+          "xp_earned": 84,
+          "accuracy": 0.74,
+          "duration_min": 20.0
+        },
+        {
+          "date": "2025-02-03",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.83,
+          "duration_min": 4.6
+        },
+        {
+          "date": "2025-02-04",
+          "lessons_completed": 2,
+          "xp_earned": 37,
+          "accuracy": 0.74,
+          "duration_min": 9.7
+        },
+        {
+          "date": "2025-02-05",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.71,
+          "duration_min": 9.2
+        },
+        {
+          "date": "2025-02-07",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.82,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-02-08",
+          "lessons_completed": 2,
+          "xp_earned": 34,
+          "accuracy": 0.75,
+          "duration_min": 9.5
+        },
+        {
+          "date": "2025-02-09",
+          "lessons_completed": 6,
+          "xp_earned": 100,
+          "accuracy": 0.9,
+          "duration_min": 15.8
+        },
+        {
+          "date": "2025-02-10",
+          "lessons_completed": 1,
+          "xp_earned": 21,
+          "accuracy": 0.85,
+          "duration_min": 4.9
+        },
+        {
+          "date": "2025-02-11",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.93,
+          "duration_min": 25.5
+        },
+        {
+          "date": "2025-02-12",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.73,
+          "duration_min": 4.9
+        },
+        {
+          "date": "2025-02-13",
+          "lessons_completed": 5,
+          "xp_earned": 91,
+          "accuracy": 0.97,
+          "duration_min": 12.7
+        },
+        {
+          "date": "2025-02-14",
+          "lessons_completed": 2,
+          "xp_earned": 50,
+          "accuracy": 0.94,
+          "duration_min": 9.8
+        },
+        {
+          "date": "2025-02-15",
+          "lessons_completed": 2,
+          "xp_earned": 47,
+          "accuracy": 0.97,
+          "duration_min": 9.2
+        },
+        {
+          "date": "2025-02-16",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.79,
+          "duration_min": 6.3
+        },
+        {
+          "date": "2025-02-18",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.75,
+          "duration_min": 3.6
+        },
+        {
+          "date": "2025-02-19",
+          "lessons_completed": 5,
+          "xp_earned": 97,
+          "accuracy": 0.79,
+          "duration_min": 19.8
+        },
+        {
+          "date": "2025-02-20",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.88,
+          "duration_min": 9.4
+        },
+        {
+          "date": "2025-02-21",
+          "lessons_completed": 4,
+          "xp_earned": 69,
+          "accuracy": 0.86,
+          "duration_min": 16.3
+        },
+        {
+          "date": "2025-02-24",
+          "lessons_completed": 5,
+          "xp_earned": 86,
+          "accuracy": 0.92,
+          "duration_min": 24.4
+        },
+        {
+          "date": "2025-02-25",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.97,
+          "duration_min": 7.0
+        },
+        {
+          "date": "2025-02-26",
+          "lessons_completed": 6,
+          "xp_earned": 111,
+          "accuracy": 0.89,
+          "duration_min": 30.9
+        },
+        {
+          "date": "2025-02-28",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.74,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-03-02",
+          "lessons_completed": 4,
+          "xp_earned": 80,
+          "accuracy": 0.86,
+          "duration_min": 11.7
+        },
+        {
+          "date": "2025-03-04",
+          "lessons_completed": 5,
+          "xp_earned": 75,
+          "accuracy": 0.79,
+          "duration_min": 17.8
+        },
+        {
+          "date": "2025-03-05",
+          "lessons_completed": 6,
+          "xp_earned": 113,
+          "accuracy": 0.95,
+          "duration_min": 24.8
+        },
+        {
+          "date": "2025-03-07",
+          "lessons_completed": 2,
+          "xp_earned": 26,
+          "accuracy": 0.71,
+          "duration_min": 7.7
+        },
+        {
+          "date": "2025-03-09",
+          "lessons_completed": 5,
+          "xp_earned": 71,
+          "accuracy": 0.87,
+          "duration_min": 13.7
+        },
+        {
+          "date": "2025-03-12",
+          "lessons_completed": 2,
+          "xp_earned": 26,
+          "accuracy": 0.78,
+          "duration_min": 8.9
+        },
+        {
+          "date": "2025-03-13",
+          "lessons_completed": 3,
+          "xp_earned": 46,
+          "accuracy": 0.79,
+          "duration_min": 14.2
+        },
+        {
+          "date": "2025-03-14",
+          "lessons_completed": 4,
+          "xp_earned": 69,
+          "accuracy": 0.92,
+          "duration_min": 11.0
+        },
+        {
+          "date": "2025-03-15",
+          "lessons_completed": 4,
+          "xp_earned": 74,
+          "accuracy": 0.71,
+          "duration_min": 13.8
+        },
+        {
+          "date": "2025-03-16",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.74,
+          "duration_min": 7.7
+        },
+        {
+          "date": "2025-03-17",
+          "lessons_completed": 5,
+          "xp_earned": 98,
+          "accuracy": 0.85,
+          "duration_min": 21.3
+        },
+        {
+          "date": "2025-03-18",
+          "lessons_completed": 6,
+          "xp_earned": 110,
+          "accuracy": 0.88,
+          "duration_min": 24.9
+        },
+        {
+          "date": "2025-03-20",
+          "lessons_completed": 3,
+          "xp_earned": 50,
+          "accuracy": 0.7,
+          "duration_min": 11.8
+        },
+        {
+          "date": "2025-03-21",
+          "lessons_completed": 3,
+          "xp_earned": 53,
+          "accuracy": 0.91,
+          "duration_min": 8.3
+        },
+        {
+          "date": "2025-03-22",
+          "lessons_completed": 2,
+          "xp_earned": 24,
+          "accuracy": 0.85,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-03-24",
+          "lessons_completed": 5,
+          "xp_earned": 75,
+          "accuracy": 0.8,
+          "duration_min": 23.1
+        },
+        {
+          "date": "2025-03-25",
+          "lessons_completed": 4,
+          "xp_earned": 83,
+          "accuracy": 0.76,
+          "duration_min": 19.5
+        },
+        {
+          "date": "2025-03-26",
+          "lessons_completed": 6,
+          "xp_earned": 93,
+          "accuracy": 0.86,
+          "duration_min": 22.4
+        },
+        {
+          "date": "2025-03-29",
+          "lessons_completed": 2,
+          "xp_earned": 28,
+          "accuracy": 0.71,
+          "duration_min": 9.3
+        },
+        {
+          "date": "2025-03-30",
+          "lessons_completed": 3,
+          "xp_earned": 59,
+          "accuracy": 0.88,
+          "duration_min": 10.2
+        },
+        {
+          "date": "2025-04-01",
+          "lessons_completed": 5,
+          "xp_earned": 91,
+          "accuracy": 0.78,
+          "duration_min": 17.5
+        },
+        {
+          "date": "2025-04-02",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.89,
+          "duration_min": 8.6
+        },
+        {
+          "date": "2025-04-03",
+          "lessons_completed": 5,
+          "xp_earned": 83,
+          "accuracy": 0.75,
+          "duration_min": 25.5
+        },
+        {
+          "date": "2025-04-05",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.74,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-04-06",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.91,
+          "duration_min": 11.7
+        },
+        {
+          "date": "2025-04-07",
+          "lessons_completed": 4,
+          "xp_earned": 73,
+          "accuracy": 0.86,
+          "duration_min": 12.4
+        },
+        {
+          "date": "2025-04-08",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.74,
+          "duration_min": 4.3
+        },
+        {
+          "date": "2025-04-09",
+          "lessons_completed": 6,
+          "xp_earned": 79,
+          "accuracy": 0.73,
+          "duration_min": 23.8
+        },
+        {
+          "date": "2025-04-10",
+          "lessons_completed": 4,
+          "xp_earned": 56,
+          "accuracy": 0.88,
+          "duration_min": 16.5
+        },
+        {
+          "date": "2025-04-12",
+          "lessons_completed": 4,
+          "xp_earned": 66,
+          "accuracy": 0.9,
+          "duration_min": 13.3
+        },
+        {
+          "date": "2025-04-13",
+          "lessons_completed": 3,
+          "xp_earned": 41,
+          "accuracy": 0.76,
+          "duration_min": 7.9
+        },
+        {
+          "date": "2025-04-16",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.85,
+          "duration_min": 13.7
+        },
+        {
+          "date": "2025-04-20",
+          "lessons_completed": 3,
+          "xp_earned": 59,
+          "accuracy": 0.81,
+          "duration_min": 11.0
+        },
+        {
+          "date": "2025-04-21",
+          "lessons_completed": 2,
+          "xp_earned": 27,
+          "accuracy": 0.87,
+          "duration_min": 10.6
+        },
+        {
+          "date": "2025-04-22",
+          "lessons_completed": 5,
+          "xp_earned": 80,
+          "accuracy": 0.94,
+          "duration_min": 24.3
+        },
+        {
+          "date": "2025-04-24",
+          "lessons_completed": 6,
+          "xp_earned": 123,
+          "accuracy": 0.91,
+          "duration_min": 30.4
+        },
+        {
+          "date": "2025-04-25",
+          "lessons_completed": 5,
+          "xp_earned": 94,
+          "accuracy": 0.81,
+          "duration_min": 20.4
+        },
+        {
+          "date": "2025-04-26",
+          "lessons_completed": 6,
+          "xp_earned": 110,
+          "accuracy": 0.94,
+          "duration_min": 21.3
+        },
+        {
+          "date": "2025-04-27",
+          "lessons_completed": 5,
+          "xp_earned": 80,
+          "accuracy": 0.85,
+          "duration_min": 24.7
+        },
+        {
+          "date": "2025-04-28",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.75,
+          "duration_min": 10.7
+        },
+        {
+          "date": "2025-04-30",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.81,
+          "duration_min": 5.0
+        },
+        {
+          "date": "2025-05-02",
+          "lessons_completed": 2,
+          "xp_earned": 40,
+          "accuracy": 0.73,
+          "duration_min": 7.1
+        },
+        {
+          "date": "2025-05-04",
+          "lessons_completed": 4,
+          "xp_earned": 71,
+          "accuracy": 0.98,
+          "duration_min": 18.3
+        },
+        {
+          "date": "2025-05-05",
+          "lessons_completed": 4,
+          "xp_earned": 53,
+          "accuracy": 0.8,
+          "duration_min": 16.2
+        },
+        {
+          "date": "2025-05-06",
+          "lessons_completed": 3,
+          "xp_earned": 60,
+          "accuracy": 0.7,
+          "duration_min": 9.3
+        },
+        {
+          "date": "2025-05-07",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.79,
+          "duration_min": 4.1
+        },
+        {
+          "date": "2025-05-09",
+          "lessons_completed": 3,
+          "xp_earned": 61,
+          "accuracy": 0.94,
+          "duration_min": 9.3
+        },
+        {
+          "date": "2025-05-10",
+          "lessons_completed": 3,
+          "xp_earned": 56,
+          "accuracy": 0.81,
+          "duration_min": 7.9
+        },
+        {
+          "date": "2025-05-13",
+          "lessons_completed": 5,
+          "xp_earned": 92,
+          "accuracy": 0.96,
+          "duration_min": 15.4
+        },
+        {
+          "date": "2025-05-16",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.81,
+          "duration_min": 22.5
+        },
+        {
+          "date": "2025-05-18",
+          "lessons_completed": 1,
+          "xp_earned": 13,
+          "accuracy": 0.87,
+          "duration_min": 3.9
+        },
+        {
+          "date": "2025-05-19",
+          "lessons_completed": 4,
+          "xp_earned": 75,
+          "accuracy": 0.82,
+          "duration_min": 15.9
+        },
+        {
+          "date": "2025-05-20",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.91,
+          "duration_min": 3.7
+        },
+        {
+          "date": "2025-05-21",
+          "lessons_completed": 6,
+          "xp_earned": 110,
+          "accuracy": 0.76,
+          "duration_min": 16.4
+        },
+        {
+          "date": "2025-05-23",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.86,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-05-24",
+          "lessons_completed": 6,
+          "xp_earned": 116,
+          "accuracy": 0.93,
+          "duration_min": 30.7
+        },
+        {
+          "date": "2025-05-25",
+          "lessons_completed": 3,
+          "xp_earned": 41,
+          "accuracy": 0.98,
+          "duration_min": 10.0
+        },
+        {
+          "date": "2025-05-26",
+          "lessons_completed": 3,
+          "xp_earned": 59,
+          "accuracy": 0.86,
+          "duration_min": 12.1
+        },
+        {
+          "date": "2025-05-27",
+          "lessons_completed": 1,
+          "xp_earned": 19,
+          "accuracy": 0.79,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-05-30",
+          "lessons_completed": 2,
+          "xp_earned": 25,
+          "accuracy": 0.76,
+          "duration_min": 8.9
+        },
+        {
+          "date": "2025-06-01",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.9,
+          "duration_min": 15.2
+        },
+        {
+          "date": "2025-06-02",
+          "lessons_completed": 5,
+          "xp_earned": 90,
+          "accuracy": 0.78,
+          "duration_min": 23.2
+        },
+        {
+          "date": "2025-06-04",
+          "lessons_completed": 4,
+          "xp_earned": 78,
+          "accuracy": 0.72,
+          "duration_min": 15.2
+        },
+        {
+          "date": "2025-06-05",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.94,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-06-06",
+          "lessons_completed": 2,
+          "xp_earned": 25,
+          "accuracy": 0.84,
+          "duration_min": 9.0
+        },
+        {
+          "date": "2025-06-07",
+          "lessons_completed": 3,
+          "xp_earned": 45,
+          "accuracy": 0.92,
+          "duration_min": 13.9
+        },
+        {
+          "date": "2025-06-08",
+          "lessons_completed": 4,
+          "xp_earned": 52,
+          "accuracy": 0.82,
+          "duration_min": 17.9
+        },
+        {
+          "date": "2025-06-09",
+          "lessons_completed": 4,
+          "xp_earned": 62,
+          "accuracy": 0.71,
+          "duration_min": 20.0
+        },
+        {
+          "date": "2025-06-10",
+          "lessons_completed": 2,
+          "xp_earned": 34,
+          "accuracy": 0.79,
+          "duration_min": 6.5
+        },
+        {
+          "date": "2025-06-11",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.81,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-06-12",
+          "lessons_completed": 6,
+          "xp_earned": 102,
+          "accuracy": 0.9,
+          "duration_min": 22.7
+        },
+        {
+          "date": "2025-06-13",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.93,
+          "duration_min": 2.9
+        },
+        {
+          "date": "2025-06-17",
+          "lessons_completed": 3,
+          "xp_earned": 56,
+          "accuracy": 0.91,
+          "duration_min": 12.0
+        },
+        {
+          "date": "2025-06-19",
+          "lessons_completed": 4,
+          "xp_earned": 65,
+          "accuracy": 0.74,
+          "duration_min": 13.3
+        },
+        {
+          "date": "2025-06-22",
+          "lessons_completed": 3,
+          "xp_earned": 34,
+          "accuracy": 0.8,
+          "duration_min": 16.0
+        },
+        {
+          "date": "2025-06-23",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.79,
+          "duration_min": 3.8
+        },
+        {
+          "date": "2025-06-24",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.73,
+          "duration_min": 24.9
+        },
+        {
+          "date": "2025-06-26",
+          "lessons_completed": 4,
+          "xp_earned": 46,
+          "accuracy": 0.82,
+          "duration_min": 18.4
+        },
+        {
+          "date": "2025-06-27",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.8,
+          "duration_min": 13.5
+        },
+        {
+          "date": "2025-06-28",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.78,
+          "duration_min": 3.3
+        },
+        {
+          "date": "2025-06-29",
+          "lessons_completed": 2,
+          "xp_earned": 27,
+          "accuracy": 0.84,
+          "duration_min": 8.2
+        },
+        {
+          "date": "2025-06-30",
+          "lessons_completed": 4,
+          "xp_earned": 61,
+          "accuracy": 0.8,
+          "duration_min": 12.4
+        }
+      ]
+    },
+    "Japanese": {
+      "current_streak": 0,
+      "longest_streak": 17,
+      "total_xp": 7402,
+      "sessions": [
+        {
+          "date": "2025-01-01",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.9,
+          "duration_min": 8.2
+        },
+        {
+          "date": "2025-01-02",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.73,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-01-05",
+          "lessons_completed": 6,
+          "xp_earned": 86,
+          "accuracy": 0.82,
+          "duration_min": 26.2
+        },
+        {
+          "date": "2025-01-06",
+          "lessons_completed": 5,
+          "xp_earned": 75,
+          "accuracy": 0.87,
+          "duration_min": 24.3
+        },
+        {
+          "date": "2025-01-08",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.98,
+          "duration_min": 5.2
+        },
+        {
+          "date": "2025-01-09",
+          "lessons_completed": 6,
+          "xp_earned": 105,
+          "accuracy": 0.7,
+          "duration_min": 31.9
+        },
+        {
+          "date": "2025-01-10",
+          "lessons_completed": 4,
+          "xp_earned": 54,
+          "accuracy": 0.91,
+          "duration_min": 18.1
+        },
+        {
+          "date": "2025-01-11",
+          "lessons_completed": 3,
+          "xp_earned": 46,
+          "accuracy": 0.96,
+          "duration_min": 13.7
+        },
+        {
+          "date": "2025-01-13",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.71,
+          "duration_min": 4.1
+        },
+        {
+          "date": "2025-01-14",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.76,
+          "duration_min": 4.4
+        },
+        {
+          "date": "2025-01-17",
+          "lessons_completed": 6,
+          "xp_earned": 118,
+          "accuracy": 0.93,
+          "duration_min": 31.9
+        },
+        {
+          "date": "2025-01-22",
+          "lessons_completed": 4,
+          "xp_earned": 66,
+          "accuracy": 0.97,
+          "duration_min": 19.4
+        },
+        {
+          "date": "2025-01-23",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.86,
+          "duration_min": 8.4
+        },
+        {
+          "date": "2025-01-25",
+          "lessons_completed": 6,
+          "xp_earned": 119,
+          "accuracy": 0.97,
+          "duration_min": 19.1
+        },
+        {
+          "date": "2025-01-26",
+          "lessons_completed": 3,
+          "xp_earned": 52,
+          "accuracy": 0.78,
+          "duration_min": 12.9
+        },
+        {
+          "date": "2025-01-29",
+          "lessons_completed": 4,
+          "xp_earned": 77,
+          "accuracy": 0.85,
+          "duration_min": 11.0
+        },
+        {
+          "date": "2025-01-30",
+          "lessons_completed": 4,
+          "xp_earned": 62,
+          "accuracy": 0.98,
+          "duration_min": 12.2
+        },
+        {
+          "date": "2025-02-01",
+          "lessons_completed": 5,
+          "xp_earned": 79,
+          "accuracy": 0.93,
+          "duration_min": 15.3
+        },
+        {
+          "date": "2025-02-02",
+          "lessons_completed": 2,
+          "xp_earned": 36,
+          "accuracy": 0.76,
+          "duration_min": 10.3
+        },
+        {
+          "date": "2025-02-03",
+          "lessons_completed": 4,
+          "xp_earned": 80,
+          "accuracy": 0.94,
+          "duration_min": 21.6
+        },
+        {
+          "date": "2025-02-04",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.94,
+          "duration_min": 2.8
+        },
+        {
+          "date": "2025-02-05",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.96,
+          "duration_min": 25.9
+        },
+        {
+          "date": "2025-02-06",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.82,
+          "duration_min": 5.4
+        },
+        {
+          "date": "2025-02-07",
+          "lessons_completed": 6,
+          "xp_earned": 114,
+          "accuracy": 0.72,
+          "duration_min": 30.0
+        },
+        {
+          "date": "2025-02-08",
+          "lessons_completed": 5,
+          "xp_earned": 103,
+          "accuracy": 0.71,
+          "duration_min": 17.4
+        },
+        {
+          "date": "2025-02-09",
+          "lessons_completed": 3,
+          "xp_earned": 41,
+          "accuracy": 0.98,
+          "duration_min": 9.1
+        },
+        {
+          "date": "2025-02-10",
+          "lessons_completed": 3,
+          "xp_earned": 46,
+          "accuracy": 0.82,
+          "duration_min": 16.3
+        },
+        {
+          "date": "2025-02-11",
+          "lessons_completed": 6,
+          "xp_earned": 121,
+          "accuracy": 0.93,
+          "duration_min": 23.9
+        },
+        {
+          "date": "2025-02-12",
+          "lessons_completed": 5,
+          "xp_earned": 77,
+          "accuracy": 0.79,
+          "duration_min": 20.3
+        },
+        {
+          "date": "2025-02-13",
+          "lessons_completed": 1,
+          "xp_earned": 19,
+          "accuracy": 0.97,
+          "duration_min": 4.8
+        },
+        {
+          "date": "2025-02-14",
+          "lessons_completed": 6,
+          "xp_earned": 113,
+          "accuracy": 0.96,
+          "duration_min": 22.3
+        },
+        {
+          "date": "2025-02-15",
+          "lessons_completed": 3,
+          "xp_earned": 64,
+          "accuracy": 0.92,
+          "duration_min": 11.8
+        },
+        {
+          "date": "2025-02-16",
+          "lessons_completed": 5,
+          "xp_earned": 93,
+          "accuracy": 0.74,
+          "duration_min": 23.9
+        },
+        {
+          "date": "2025-02-17",
+          "lessons_completed": 5,
+          "xp_earned": 96,
+          "accuracy": 0.9,
+          "duration_min": 18.4
+        },
+        {
+          "date": "2025-02-20",
+          "lessons_completed": 4,
+          "xp_earned": 61,
+          "accuracy": 0.87,
+          "duration_min": 14.3
+        },
+        {
+          "date": "2025-02-24",
+          "lessons_completed": 5,
+          "xp_earned": 85,
+          "accuracy": 0.97,
+          "duration_min": 22.0
+        },
+        {
+          "date": "2025-02-25",
+          "lessons_completed": 4,
+          "xp_earned": 86,
+          "accuracy": 0.84,
+          "duration_min": 14.0
+        },
+        {
+          "date": "2025-02-28",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.96,
+          "duration_min": 16.2
+        },
+        {
+          "date": "2025-03-01",
+          "lessons_completed": 5,
+          "xp_earned": 96,
+          "accuracy": 0.92,
+          "duration_min": 22.7
+        },
+        {
+          "date": "2025-03-03",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.95,
+          "duration_min": 10.4
+        },
+        {
+          "date": "2025-03-06",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.9,
+          "duration_min": 14.4
+        },
+        {
+          "date": "2025-03-07",
+          "lessons_completed": 5,
+          "xp_earned": 83,
+          "accuracy": 0.8,
+          "duration_min": 21.0
+        },
+        {
+          "date": "2025-03-09",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.73,
+          "duration_min": 5.4
+        },
+        {
+          "date": "2025-03-10",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.97,
+          "duration_min": 17.1
+        },
+        {
+          "date": "2025-03-11",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.85,
+          "duration_min": 3.9
+        },
+        {
+          "date": "2025-03-12",
+          "lessons_completed": 3,
+          "xp_earned": 57,
+          "accuracy": 0.76,
+          "duration_min": 14.6
+        },
+        {
+          "date": "2025-03-13",
+          "lessons_completed": 5,
+          "xp_earned": 70,
+          "accuracy": 0.82,
+          "duration_min": 13.4
+        },
+        {
+          "date": "2025-03-14",
+          "lessons_completed": 6,
+          "xp_earned": 109,
+          "accuracy": 0.89,
+          "duration_min": 30.9
+        },
+        {
+          "date": "2025-03-15",
+          "lessons_completed": 3,
+          "xp_earned": 50,
+          "accuracy": 0.88,
+          "duration_min": 12.7
+        },
+        {
+          "date": "2025-03-16",
+          "lessons_completed": 6,
+          "xp_earned": 111,
+          "accuracy": 0.75,
+          "duration_min": 28.7
+        },
+        {
+          "date": "2025-03-17",
+          "lessons_completed": 5,
+          "xp_earned": 84,
+          "accuracy": 0.76,
+          "duration_min": 23.8
+        },
+        {
+          "date": "2025-03-19",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.72,
+          "duration_min": 3.1
+        },
+        {
+          "date": "2025-03-20",
+          "lessons_completed": 6,
+          "xp_earned": 114,
+          "accuracy": 0.73,
+          "duration_min": 28.3
+        },
+        {
+          "date": "2025-03-21",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.73,
+          "duration_min": 11.8
+        },
+        {
+          "date": "2025-03-23",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.92,
+          "duration_min": 3.9
+        },
+        {
+          "date": "2025-03-25",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.84,
+          "duration_min": 3.1
+        },
+        {
+          "date": "2025-03-26",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.9,
+          "duration_min": 5.3
+        },
+        {
+          "date": "2025-03-28",
+          "lessons_completed": 6,
+          "xp_earned": 98,
+          "accuracy": 0.73,
+          "duration_min": 28.1
+        },
+        {
+          "date": "2025-03-29",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.93,
+          "duration_min": 5.4
+        },
+        {
+          "date": "2025-03-30",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.95,
+          "duration_min": 4.1
+        },
+        {
+          "date": "2025-03-31",
+          "lessons_completed": 3,
+          "xp_earned": 69,
+          "accuracy": 0.92,
+          "duration_min": 15.6
+        },
+        {
+          "date": "2025-04-01",
+          "lessons_completed": 2,
+          "xp_earned": 43,
+          "accuracy": 0.95,
+          "duration_min": 5.6
+        },
+        {
+          "date": "2025-04-04",
+          "lessons_completed": 5,
+          "xp_earned": 87,
+          "accuracy": 0.81,
+          "duration_min": 22.6
+        },
+        {
+          "date": "2025-04-06",
+          "lessons_completed": 6,
+          "xp_earned": 124,
+          "accuracy": 0.72,
+          "duration_min": 19.3
+        },
+        {
+          "date": "2025-04-08",
+          "lessons_completed": 4,
+          "xp_earned": 58,
+          "accuracy": 0.95,
+          "duration_min": 12.4
+        },
+        {
+          "date": "2025-04-09",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.92,
+          "duration_min": 10.5
+        },
+        {
+          "date": "2025-04-10",
+          "lessons_completed": 5,
+          "xp_earned": 90,
+          "accuracy": 0.71,
+          "duration_min": 23.9
+        },
+        {
+          "date": "2025-04-11",
+          "lessons_completed": 6,
+          "xp_earned": 90,
+          "accuracy": 0.84,
+          "duration_min": 32.2
+        },
+        {
+          "date": "2025-04-12",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.94,
+          "duration_min": 4.2
+        },
+        {
+          "date": "2025-04-14",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.89,
+          "duration_min": 20.9
+        },
+        {
+          "date": "2025-04-15",
+          "lessons_completed": 2,
+          "xp_earned": 40,
+          "accuracy": 0.73,
+          "duration_min": 8.9
+        },
+        {
+          "date": "2025-04-16",
+          "lessons_completed": 4,
+          "xp_earned": 59,
+          "accuracy": 0.72,
+          "duration_min": 12.9
+        },
+        {
+          "date": "2025-04-19",
+          "lessons_completed": 3,
+          "xp_earned": 57,
+          "accuracy": 0.74,
+          "duration_min": 13.0
+        },
+        {
+          "date": "2025-04-22",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.73,
+          "duration_min": 4.6
+        },
+        {
+          "date": "2025-04-23",
+          "lessons_completed": 5,
+          "xp_earned": 97,
+          "accuracy": 0.96,
+          "duration_min": 25.1
+        },
+        {
+          "date": "2025-04-25",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.77,
+          "duration_min": 17.4
+        },
+        {
+          "date": "2025-04-28",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.97,
+          "duration_min": 17.8
+        },
+        {
+          "date": "2025-05-04",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.85,
+          "duration_min": 7.0
+        },
+        {
+          "date": "2025-05-05",
+          "lessons_completed": 3,
+          "xp_earned": 47,
+          "accuracy": 0.95,
+          "duration_min": 14.7
+        },
+        {
+          "date": "2025-05-06",
+          "lessons_completed": 1,
+          "xp_earned": 11,
+          "accuracy": 0.93,
+          "duration_min": 3.4
+        },
+        {
+          "date": "2025-05-07",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.75,
+          "duration_min": 12.3
+        },
+        {
+          "date": "2025-05-08",
+          "lessons_completed": 5,
+          "xp_earned": 84,
+          "accuracy": 0.78,
+          "duration_min": 26.1
+        },
+        {
+          "date": "2025-05-09",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.87,
+          "duration_min": 13.0
+        },
+        {
+          "date": "2025-05-10",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.73,
+          "duration_min": 30.6
+        },
+        {
+          "date": "2025-05-11",
+          "lessons_completed": 5,
+          "xp_earned": 79,
+          "accuracy": 0.72,
+          "duration_min": 23.4
+        },
+        {
+          "date": "2025-05-12",
+          "lessons_completed": 1,
+          "xp_earned": 21,
+          "accuracy": 0.72,
+          "duration_min": 4.2
+        },
+        {
+          "date": "2025-05-14",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.78,
+          "duration_min": 18.6
+        },
+        {
+          "date": "2025-05-15",
+          "lessons_completed": 4,
+          "xp_earned": 77,
+          "accuracy": 0.93,
+          "duration_min": 10.4
+        },
+        {
+          "date": "2025-05-17",
+          "lessons_completed": 2,
+          "xp_earned": 41,
+          "accuracy": 0.78,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-05-18",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.92,
+          "duration_min": 4.5
+        },
+        {
+          "date": "2025-05-19",
+          "lessons_completed": 3,
+          "xp_earned": 40,
+          "accuracy": 0.83,
+          "duration_min": 15.0
+        },
+        {
+          "date": "2025-05-20",
+          "lessons_completed": 3,
+          "xp_earned": 40,
+          "accuracy": 0.72,
+          "duration_min": 7.6
+        },
+        {
+          "date": "2025-05-22",
+          "lessons_completed": 3,
+          "xp_earned": 50,
+          "accuracy": 0.8,
+          "duration_min": 14.1
+        },
+        {
+          "date": "2025-05-23",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.95,
+          "duration_min": 6.0
+        },
+        {
+          "date": "2025-05-26",
+          "lessons_completed": 6,
+          "xp_earned": 118,
+          "accuracy": 0.77,
+          "duration_min": 15.1
+        },
+        {
+          "date": "2025-05-27",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.83,
+          "duration_min": 15.8
+        },
+        {
+          "date": "2025-05-28",
+          "lessons_completed": 5,
+          "xp_earned": 97,
+          "accuracy": 0.83,
+          "duration_min": 15.1
+        },
+        {
+          "date": "2025-05-29",
+          "lessons_completed": 4,
+          "xp_earned": 52,
+          "accuracy": 0.77,
+          "duration_min": 15.3
+        },
+        {
+          "date": "2025-05-30",
+          "lessons_completed": 3,
+          "xp_earned": 40,
+          "accuracy": 0.84,
+          "duration_min": 9.4
+        },
+        {
+          "date": "2025-05-31",
+          "lessons_completed": 4,
+          "xp_earned": 58,
+          "accuracy": 0.77,
+          "duration_min": 12.0
+        },
+        {
+          "date": "2025-06-02",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.77,
+          "duration_min": 5.3
+        },
+        {
+          "date": "2025-06-03",
+          "lessons_completed": 6,
+          "xp_earned": 99,
+          "accuracy": 0.78,
+          "duration_min": 29.2
+        },
+        {
+          "date": "2025-06-04",
+          "lessons_completed": 6,
+          "xp_earned": 103,
+          "accuracy": 0.88,
+          "duration_min": 27.4
+        },
+        {
+          "date": "2025-06-05",
+          "lessons_completed": 6,
+          "xp_earned": 113,
+          "accuracy": 0.93,
+          "duration_min": 32.0
+        },
+        {
+          "date": "2025-06-08",
+          "lessons_completed": 6,
+          "xp_earned": 102,
+          "accuracy": 0.76,
+          "duration_min": 15.6
+        },
+        {
+          "date": "2025-06-09",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.91,
+          "duration_min": 8.5
+        },
+        {
+          "date": "2025-06-11",
+          "lessons_completed": 6,
+          "xp_earned": 100,
+          "accuracy": 0.83,
+          "duration_min": 24.2
+        },
+        {
+          "date": "2025-06-13",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.93,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-06-15",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.81,
+          "duration_min": 7.1
+        },
+        {
+          "date": "2025-06-16",
+          "lessons_completed": 1,
+          "xp_earned": 21,
+          "accuracy": 0.92,
+          "duration_min": 3.2
+        },
+        {
+          "date": "2025-06-18",
+          "lessons_completed": 3,
+          "xp_earned": 71,
+          "accuracy": 0.74,
+          "duration_min": 9.7
+        },
+        {
+          "date": "2025-06-19",
+          "lessons_completed": 4,
+          "xp_earned": 62,
+          "accuracy": 0.95,
+          "duration_min": 10.7
+        },
+        {
+          "date": "2025-06-20",
+          "lessons_completed": 2,
+          "xp_earned": 36,
+          "accuracy": 0.92,
+          "duration_min": 6.5
+        },
+        {
+          "date": "2025-06-21",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.97,
+          "duration_min": 9.3
+        },
+        {
+          "date": "2025-06-22",
+          "lessons_completed": 4,
+          "xp_earned": 54,
+          "accuracy": 0.78,
+          "duration_min": 21.6
+        },
+        {
+          "date": "2025-06-24",
+          "lessons_completed": 5,
+          "xp_earned": 95,
+          "accuracy": 0.84,
+          "duration_min": 20.5
+        },
+        {
+          "date": "2025-06-25",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.87,
+          "duration_min": 9.8
+        },
+        {
+          "date": "2025-06-26",
+          "lessons_completed": 6,
+          "xp_earned": 109,
+          "accuracy": 0.9,
+          "duration_min": 16.0
+        },
+        {
+          "date": "2025-06-27",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.82,
+          "duration_min": 7.0
+        }
+      ]
+    },
+    "German": {
+      "current_streak": 2,
+      "longest_streak": 12,
+      "total_xp": 7891,
+      "sessions": [
+        {
+          "date": "2025-01-01",
+          "lessons_completed": 3,
+          "xp_earned": 52,
+          "accuracy": 0.97,
+          "duration_min": 9.4
+        },
+        {
+          "date": "2025-01-02",
+          "lessons_completed": 2,
+          "xp_earned": 38,
+          "accuracy": 0.91,
+          "duration_min": 7.2
+        },
+        {
+          "date": "2025-01-03",
+          "lessons_completed": 3,
+          "xp_earned": 47,
+          "accuracy": 0.95,
+          "duration_min": 8.5
+        },
+        {
+          "date": "2025-01-04",
+          "lessons_completed": 4,
+          "xp_earned": 84,
+          "accuracy": 0.96,
+          "duration_min": 16.9
+        },
+        {
+          "date": "2025-01-05",
+          "lessons_completed": 6,
+          "xp_earned": 108,
+          "accuracy": 0.81,
+          "duration_min": 17.1
+        },
+        {
+          "date": "2025-01-06",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.8,
+          "duration_min": 15.2
+        },
+        {
+          "date": "2025-01-07",
+          "lessons_completed": 2,
+          "xp_earned": 36,
+          "accuracy": 0.94,
+          "duration_min": 10.3
+        },
+        {
+          "date": "2025-01-08",
+          "lessons_completed": 2,
+          "xp_earned": 33,
+          "accuracy": 0.9,
+          "duration_min": 6.6
+        },
+        {
+          "date": "2025-01-09",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.72,
+          "duration_min": 3.2
+        },
+        {
+          "date": "2025-01-10",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.71,
+          "duration_min": 5.7
+        },
+        {
+          "date": "2025-01-13",
+          "lessons_completed": 3,
+          "xp_earned": 53,
+          "accuracy": 0.78,
+          "duration_min": 14.2
+        },
+        {
+          "date": "2025-01-15",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.75,
+          "duration_min": 2.8
+        },
+        {
+          "date": "2025-01-16",
+          "lessons_completed": 6,
+          "xp_earned": 111,
+          "accuracy": 0.75,
+          "duration_min": 31.7
+        },
+        {
+          "date": "2025-01-17",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.93,
+          "duration_min": 3.8
+        },
+        {
+          "date": "2025-01-18",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.79,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-01-19",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.75,
+          "duration_min": 4.6
+        },
+        {
+          "date": "2025-01-22",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.86,
+          "duration_min": 2.9
+        },
+        {
+          "date": "2025-01-23",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.84,
+          "duration_min": 20.3
+        },
+        {
+          "date": "2025-01-24",
+          "lessons_completed": 1,
+          "xp_earned": 10,
+          "accuracy": 0.76,
+          "duration_min": 2.6
+        },
+        {
+          "date": "2025-01-25",
+          "lessons_completed": 2,
+          "xp_earned": 40,
+          "accuracy": 0.95,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-01-26",
+          "lessons_completed": 6,
+          "xp_earned": 99,
+          "accuracy": 0.92,
+          "duration_min": 29.9
+        },
+        {
+          "date": "2025-01-30",
+          "lessons_completed": 3,
+          "xp_earned": 50,
+          "accuracy": 0.72,
+          "duration_min": 7.9
+        },
+        {
+          "date": "2025-01-31",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.83,
+          "duration_min": 6.2
+        },
+        {
+          "date": "2025-02-01",
+          "lessons_completed": 5,
+          "xp_earned": 90,
+          "accuracy": 0.88,
+          "duration_min": 21.9
+        },
+        {
+          "date": "2025-02-02",
+          "lessons_completed": 1,
+          "xp_earned": 18,
+          "accuracy": 0.92,
+          "duration_min": 4.0
+        },
+        {
+          "date": "2025-02-03",
+          "lessons_completed": 4,
+          "xp_earned": 88,
+          "accuracy": 0.87,
+          "duration_min": 11.3
+        },
+        {
+          "date": "2025-02-04",
+          "lessons_completed": 6,
+          "xp_earned": 93,
+          "accuracy": 0.89,
+          "duration_min": 15.6
+        },
+        {
+          "date": "2025-02-05",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.9,
+          "duration_min": 28.2
+        },
+        {
+          "date": "2025-02-06",
+          "lessons_completed": 6,
+          "xp_earned": 97,
+          "accuracy": 0.75,
+          "duration_min": 18.1
+        },
+        {
+          "date": "2025-02-08",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.83,
+          "duration_min": 12.5
+        },
+        {
+          "date": "2025-02-09",
+          "lessons_completed": 6,
+          "xp_earned": 122,
+          "accuracy": 0.81,
+          "duration_min": 18.6
+        },
+        {
+          "date": "2025-02-13",
+          "lessons_completed": 5,
+          "xp_earned": 90,
+          "accuracy": 0.93,
+          "duration_min": 22.9
+        },
+        {
+          "date": "2025-02-15",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.88,
+          "duration_min": 8.0
+        },
+        {
+          "date": "2025-02-16",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.92,
+          "duration_min": 6.5
+        },
+        {
+          "date": "2025-02-17",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.76,
+          "duration_min": 3.5
+        },
+        {
+          "date": "2025-02-20",
+          "lessons_completed": 5,
+          "xp_earned": 97,
+          "accuracy": 0.96,
+          "duration_min": 12.7
+        },
+        {
+          "date": "2025-02-21",
+          "lessons_completed": 6,
+          "xp_earned": 94,
+          "accuracy": 0.84,
+          "duration_min": 20.9
+        },
+        {
+          "date": "2025-02-22",
+          "lessons_completed": 3,
+          "xp_earned": 51,
+          "accuracy": 0.89,
+          "duration_min": 8.0
+        },
+        {
+          "date": "2025-02-24",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.96,
+          "duration_min": 11.7
+        },
+        {
+          "date": "2025-02-25",
+          "lessons_completed": 6,
+          "xp_earned": 99,
+          "accuracy": 0.73,
+          "duration_min": 31.0
+        },
+        {
+          "date": "2025-02-27",
+          "lessons_completed": 3,
+          "xp_earned": 49,
+          "accuracy": 0.91,
+          "duration_min": 9.3
+        },
+        {
+          "date": "2025-02-28",
+          "lessons_completed": 4,
+          "xp_earned": 85,
+          "accuracy": 0.88,
+          "duration_min": 20.6
+        },
+        {
+          "date": "2025-03-01",
+          "lessons_completed": 3,
+          "xp_earned": 61,
+          "accuracy": 0.86,
+          "duration_min": 8.5
+        },
+        {
+          "date": "2025-03-02",
+          "lessons_completed": 5,
+          "xp_earned": 94,
+          "accuracy": 0.95,
+          "duration_min": 22.5
+        },
+        {
+          "date": "2025-03-03",
+          "lessons_completed": 3,
+          "xp_earned": 45,
+          "accuracy": 0.83,
+          "duration_min": 12.6
+        },
+        {
+          "date": "2025-03-04",
+          "lessons_completed": 2,
+          "xp_earned": 35,
+          "accuracy": 0.75,
+          "duration_min": 6.7
+        },
+        {
+          "date": "2025-03-05",
+          "lessons_completed": 6,
+          "xp_earned": 100,
+          "accuracy": 0.95,
+          "duration_min": 32.9
+        },
+        {
+          "date": "2025-03-06",
+          "lessons_completed": 4,
+          "xp_earned": 71,
+          "accuracy": 0.78,
+          "duration_min": 13.9
+        },
+        {
+          "date": "2025-03-08",
+          "lessons_completed": 5,
+          "xp_earned": 76,
+          "accuracy": 0.7,
+          "duration_min": 22.2
+        },
+        {
+          "date": "2025-03-10",
+          "lessons_completed": 5,
+          "xp_earned": 69,
+          "accuracy": 0.95,
+          "duration_min": 25.3
+        },
+        {
+          "date": "2025-03-13",
+          "lessons_completed": 4,
+          "xp_earned": 58,
+          "accuracy": 0.88,
+          "duration_min": 19.6
+        },
+        {
+          "date": "2025-03-14",
+          "lessons_completed": 5,
+          "xp_earned": 92,
+          "accuracy": 0.84,
+          "duration_min": 19.5
+        },
+        {
+          "date": "2025-03-15",
+          "lessons_completed": 1,
+          "xp_earned": 20,
+          "accuracy": 0.95,
+          "duration_min": 3.0
+        },
+        {
+          "date": "2025-03-17",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.87,
+          "duration_min": 10.4
+        },
+        {
+          "date": "2025-03-18",
+          "lessons_completed": 5,
+          "xp_earned": 94,
+          "accuracy": 0.96,
+          "duration_min": 13.3
+        },
+        {
+          "date": "2025-03-20",
+          "lessons_completed": 1,
+          "xp_earned": 12,
+          "accuracy": 0.95,
+          "duration_min": 4.2
+        },
+        {
+          "date": "2025-03-21",
+          "lessons_completed": 3,
+          "xp_earned": 55,
+          "accuracy": 0.98,
+          "duration_min": 10.5
+        },
+        {
+          "date": "2025-03-23",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.94,
+          "duration_min": 7.1
+        },
+        {
+          "date": "2025-03-24",
+          "lessons_completed": 3,
+          "xp_earned": 55,
+          "accuracy": 0.72,
+          "duration_min": 9.2
+        },
+        {
+          "date": "2025-03-25",
+          "lessons_completed": 5,
+          "xp_earned": 106,
+          "accuracy": 0.92,
+          "duration_min": 21.4
+        },
+        {
+          "date": "2025-03-26",
+          "lessons_completed": 3,
+          "xp_earned": 66,
+          "accuracy": 0.87,
+          "duration_min": 8.8
+        },
+        {
+          "date": "2025-03-27",
+          "lessons_completed": 1,
+          "xp_earned": 21,
+          "accuracy": 0.9,
+          "duration_min": 5.4
+        },
+        {
+          "date": "2025-03-28",
+          "lessons_completed": 3,
+          "xp_earned": 64,
+          "accuracy": 0.9,
+          "duration_min": 15.1
+        },
+        {
+          "date": "2025-03-29",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.84,
+          "duration_min": 18.5
+        },
+        {
+          "date": "2025-03-30",
+          "lessons_completed": 4,
+          "xp_earned": 58,
+          "accuracy": 0.88,
+          "duration_min": 18.1
+        },
+        {
+          "date": "2025-03-31",
+          "lessons_completed": 3,
+          "xp_earned": 52,
+          "accuracy": 0.85,
+          "duration_min": 11.1
+        },
+        {
+          "date": "2025-04-01",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.95,
+          "duration_min": 4.9
+        },
+        {
+          "date": "2025-04-02",
+          "lessons_completed": 3,
+          "xp_earned": 74,
+          "accuracy": 0.78,
+          "duration_min": 12.2
+        },
+        {
+          "date": "2025-04-03",
+          "lessons_completed": 5,
+          "xp_earned": 96,
+          "accuracy": 0.81,
+          "duration_min": 21.6
+        },
+        {
+          "date": "2025-04-05",
+          "lessons_completed": 3,
+          "xp_earned": 55,
+          "accuracy": 0.93,
+          "duration_min": 13.2
+        },
+        {
+          "date": "2025-04-06",
+          "lessons_completed": 3,
+          "xp_earned": 59,
+          "accuracy": 0.96,
+          "duration_min": 10.9
+        },
+        {
+          "date": "2025-04-07",
+          "lessons_completed": 2,
+          "xp_earned": 25,
+          "accuracy": 0.74,
+          "duration_min": 6.4
+        },
+        {
+          "date": "2025-04-08",
+          "lessons_completed": 3,
+          "xp_earned": 40,
+          "accuracy": 0.85,
+          "duration_min": 15.8
+        },
+        {
+          "date": "2025-04-09",
+          "lessons_completed": 2,
+          "xp_earned": 39,
+          "accuracy": 0.71,
+          "duration_min": 8.0
+        },
+        {
+          "date": "2025-04-11",
+          "lessons_completed": 6,
+          "xp_earned": 82,
+          "accuracy": 0.74,
+          "duration_min": 15.7
+        },
+        {
+          "date": "2025-04-12",
+          "lessons_completed": 6,
+          "xp_earned": 95,
+          "accuracy": 0.76,
+          "duration_min": 21.4
+        },
+        {
+          "date": "2025-04-14",
+          "lessons_completed": 1,
+          "xp_earned": 23,
+          "accuracy": 0.79,
+          "duration_min": 3.7
+        },
+        {
+          "date": "2025-04-15",
+          "lessons_completed": 4,
+          "xp_earned": 55,
+          "accuracy": 0.95,
+          "duration_min": 19.5
+        },
+        {
+          "date": "2025-04-16",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.82,
+          "duration_min": 15.4
+        },
+        {
+          "date": "2025-04-17",
+          "lessons_completed": 6,
+          "xp_earned": 101,
+          "accuracy": 0.89,
+          "duration_min": 17.8
+        },
+        {
+          "date": "2025-04-18",
+          "lessons_completed": 5,
+          "xp_earned": 92,
+          "accuracy": 0.9,
+          "duration_min": 18.6
+        },
+        {
+          "date": "2025-04-22",
+          "lessons_completed": 3,
+          "xp_earned": 56,
+          "accuracy": 0.98,
+          "duration_min": 9.4
+        },
+        {
+          "date": "2025-04-23",
+          "lessons_completed": 5,
+          "xp_earned": 88,
+          "accuracy": 0.74,
+          "duration_min": 25.4
+        },
+        {
+          "date": "2025-04-24",
+          "lessons_completed": 3,
+          "xp_earned": 48,
+          "accuracy": 0.74,
+          "duration_min": 14.3
+        },
+        {
+          "date": "2025-04-25",
+          "lessons_completed": 3,
+          "xp_earned": 45,
+          "accuracy": 0.86,
+          "duration_min": 8.7
+        },
+        {
+          "date": "2025-04-26",
+          "lessons_completed": 1,
+          "xp_earned": 23,
+          "accuracy": 0.82,
+          "duration_min": 4.7
+        },
+        {
+          "date": "2025-04-27",
+          "lessons_completed": 6,
+          "xp_earned": 113,
+          "accuracy": 0.76,
+          "duration_min": 26.8
+        },
+        {
+          "date": "2025-04-28",
+          "lessons_completed": 3,
+          "xp_earned": 57,
+          "accuracy": 0.83,
+          "duration_min": 15.3
+        },
+        {
+          "date": "2025-04-29",
+          "lessons_completed": 6,
+          "xp_earned": 93,
+          "accuracy": 0.87,
+          "duration_min": 30.6
+        },
+        {
+          "date": "2025-05-02",
+          "lessons_completed": 4,
+          "xp_earned": 70,
+          "accuracy": 0.83,
+          "duration_min": 11.0
+        },
+        {
+          "date": "2025-05-05",
+          "lessons_completed": 4,
+          "xp_earned": 76,
+          "accuracy": 0.94,
+          "duration_min": 17.3
+        },
+        {
+          "date": "2025-05-07",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.93,
+          "duration_min": 3.3
+        },
+        {
+          "date": "2025-05-08",
+          "lessons_completed": 2,
+          "xp_earned": 42,
+          "accuracy": 0.77,
+          "duration_min": 10.5
+        },
+        {
+          "date": "2025-05-09",
+          "lessons_completed": 5,
+          "xp_earned": 93,
+          "accuracy": 0.73,
+          "duration_min": 26.2
+        },
+        {
+          "date": "2025-05-11",
+          "lessons_completed": 6,
+          "xp_earned": 122,
+          "accuracy": 0.74,
+          "duration_min": 27.3
+        },
+        {
+          "date": "2025-05-12",
+          "lessons_completed": 4,
+          "xp_earned": 79,
+          "accuracy": 0.84,
+          "duration_min": 13.2
+        },
+        {
+          "date": "2025-05-13",
+          "lessons_completed": 5,
+          "xp_earned": 93,
+          "accuracy": 0.8,
+          "duration_min": 26.9
+        },
+        {
+          "date": "2025-05-15",
+          "lessons_completed": 5,
+          "xp_earned": 96,
+          "accuracy": 0.92,
+          "duration_min": 17.3
+        },
+        {
+          "date": "2025-05-16",
+          "lessons_completed": 3,
+          "xp_earned": 66,
+          "accuracy": 0.83,
+          "duration_min": 15.9
+        },
+        {
+          "date": "2025-05-17",
+          "lessons_completed": 6,
+          "xp_earned": 106,
+          "accuracy": 0.97,
+          "duration_min": 19.4
+        },
+        {
+          "date": "2025-05-19",
+          "lessons_completed": 1,
+          "xp_earned": 16,
+          "accuracy": 0.85,
+          "duration_min": 3.1
+        },
+        {
+          "date": "2025-05-20",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.89,
+          "duration_min": 4.6
+        },
+        {
+          "date": "2025-05-23",
+          "lessons_completed": 6,
+          "xp_earned": 92,
+          "accuracy": 0.79,
+          "duration_min": 25.2
+        },
+        {
+          "date": "2025-05-24",
+          "lessons_completed": 4,
+          "xp_earned": 62,
+          "accuracy": 0.98,
+          "duration_min": 20.9
+        },
+        {
+          "date": "2025-05-25",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.86,
+          "duration_min": 9.4
+        },
+        {
+          "date": "2025-05-27",
+          "lessons_completed": 4,
+          "xp_earned": 67,
+          "accuracy": 0.73,
+          "duration_min": 19.0
+        },
+        {
+          "date": "2025-05-28",
+          "lessons_completed": 2,
+          "xp_earned": 44,
+          "accuracy": 0.94,
+          "duration_min": 5.1
+        },
+        {
+          "date": "2025-05-29",
+          "lessons_completed": 1,
+          "xp_earned": 23,
+          "accuracy": 0.87,
+          "duration_min": 4.5
+        },
+        {
+          "date": "2025-05-30",
+          "lessons_completed": 6,
+          "xp_earned": 109,
+          "accuracy": 0.75,
+          "duration_min": 17.7
+        },
+        {
+          "date": "2025-05-31",
+          "lessons_completed": 1,
+          "xp_earned": 15,
+          "accuracy": 0.79,
+          "duration_min": 4.2
+        },
+        {
+          "date": "2025-06-01",
+          "lessons_completed": 4,
+          "xp_earned": 68,
+          "accuracy": 0.77,
+          "duration_min": 11.7
+        },
+        {
+          "date": "2025-06-03",
+          "lessons_completed": 3,
+          "xp_earned": 54,
+          "accuracy": 0.86,
+          "duration_min": 11.4
+        },
+        {
+          "date": "2025-06-04",
+          "lessons_completed": 1,
+          "xp_earned": 17,
+          "accuracy": 0.97,
+          "duration_min": 5.5
+        },
+        {
+          "date": "2025-06-05",
+          "lessons_completed": 5,
+          "xp_earned": 71,
+          "accuracy": 0.77,
+          "duration_min": 24.1
+        },
+        {
+          "date": "2025-06-07",
+          "lessons_completed": 1,
+          "xp_earned": 23,
+          "accuracy": 0.91,
+          "duration_min": 2.7
+        },
+        {
+          "date": "2025-06-09",
+          "lessons_completed": 6,
+          "xp_earned": 104,
+          "accuracy": 0.9,
+          "duration_min": 22.7
+        },
+        {
+          "date": "2025-06-10",
+          "lessons_completed": 1,
+          "xp_earned": 25,
+          "accuracy": 0.73,
+          "duration_min": 5.0
+        },
+        {
+          "date": "2025-06-11",
+          "lessons_completed": 2,
+          "xp_earned": 30,
+          "accuracy": 0.84,
+          "duration_min": 7.0
+        },
+        {
+          "date": "2025-06-12",
+          "lessons_completed": 6,
+          "xp_earned": 109,
+          "accuracy": 0.77,
+          "duration_min": 23.2
+        },
+        {
+          "date": "2025-06-13",
+          "lessons_completed": 4,
+          "xp_earned": 62,
+          "accuracy": 0.76,
+          "duration_min": 11.1
+        },
+        {
+          "date": "2025-06-14",
+          "lessons_completed": 3,
+          "xp_earned": 55,
+          "accuracy": 0.89,
+          "duration_min": 10.5
+        },
+        {
+          "date": "2025-06-15",
+          "lessons_completed": 4,
+          "xp_earned": 61,
+          "accuracy": 0.72,
+          "duration_min": 16.5
+        },
+        {
+          "date": "2025-06-18",
+          "lessons_completed": 5,
+          "xp_earned": 97,
+          "accuracy": 0.86,
+          "duration_min": 19.2
+        },
+        {
+          "date": "2025-06-19",
+          "lessons_completed": 5,
+          "xp_earned": 90,
+          "accuracy": 0.82,
+          "duration_min": 22.4
+        },
+        {
+          "date": "2025-06-20",
+          "lessons_completed": 2,
+          "xp_earned": 23,
+          "accuracy": 0.73,
+          "duration_min": 6.9
+        },
+        {
+          "date": "2025-06-21",
+          "lessons_completed": 5,
+          "xp_earned": 98,
+          "accuracy": 0.9,
+          "duration_min": 16.7
+        },
+        {
+          "date": "2025-06-23",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.73,
+          "duration_min": 4.7
+        },
+        {
+          "date": "2025-06-25",
+          "lessons_completed": 2,
+          "xp_earned": 31,
+          "accuracy": 0.73,
+          "duration_min": 7.3
+        },
+        {
+          "date": "2025-06-26",
+          "lessons_completed": 1,
+          "xp_earned": 14,
+          "accuracy": 0.71,
+          "duration_min": 3.6
+        },
+        {
+          "date": "2025-06-29",
+          "lessons_completed": 6,
+          "xp_earned": 120,
+          "accuracy": 0.74,
+          "duration_min": 21.4
+        },
+        {
+          "date": "2025-06-30",
+          "lessons_completed": 2,
+          "xp_earned": 32,
+          "accuracy": 0.84,
+          "duration_min": 7.5
+        }
+      ]
+    }
+  }
+}

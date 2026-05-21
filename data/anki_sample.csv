@@ -1,0 +1,261 @@
+date,deck_name,cards_reviewed,correct,time_spent_min,language
+2025-01-01,French Core 5K,88,59,23.5,French
+2025-01-03,German Top 4K,50,33,11.7,German
+2025-01-04,Spanish Travel,100,82,16.2,Spanish
+2025-01-05,Spanish 1000,91,82,18.9,Spanish
+2025-01-06,JLPT N4,107,75,28.5,Japanese
+2025-01-07,French Listening,27,22,6.7,French
+2025-01-08,German Grammar,66,48,20.4,German
+2025-01-08,JLPT N4,119,86,31.5,Japanese
+2025-01-09,German Top 4K,85,65,25.6,German
+2025-01-09,Spanish 1000,82,63,28.1,Spanish
+2025-01-09,French Core 5K,117,95,36.0,French
+2025-01-10,JLPT N4,83,68,20.0,Japanese
+2025-01-11,German Top 4K,113,97,31.6,German
+2025-01-11,JLPT N4,77,56,17.5,Japanese
+2025-01-11,French Listening,64,42,15.5,French
+2025-01-12,French Core 5K,118,86,35.1,French
+2025-01-13,German Grammar,71,57,23.2,German
+2025-01-13,French Verbs,90,66,21.0,French
+2025-01-13,JLPT N5 Kanji,107,97,36.5,Japanese
+2025-01-14,Spanish Travel,49,32,15.5,Spanish
+2025-01-15,Spanish Verbs,88,66,23.2,Spanish
+2025-01-17,French Listening,91,69,20.9,French
+2025-01-17,Spanish 1000,81,68,13.2,Spanish
+2025-01-18,Spanish 1000,63,52,10.7,Spanish
+2025-01-19,Core 2K JP,29,26,7.9,Japanese
+2025-01-19,German Top 4K,101,73,22.2,German
+2025-01-20,German Grammar,81,64,13.5,German
+2025-01-21,JLPT N5 Kanji,108,75,16.7,Japanese
+2025-01-23,French Listening,58,54,18.7,French
+2025-01-24,Core 2K JP,65,57,16.7,Japanese
+2025-01-25,Spanish Travel,120,113,38.5,Spanish
+2025-01-26,Spanish Verbs,113,74,17.6,Spanish
+2025-01-26,French Verbs,80,58,23.1,French
+2025-01-26,German Grammar,77,68,22.7,German
+2025-01-27,French Verbs,45,33,11.1,French
+2025-01-27,German Verbs,20,15,5.6,German
+2025-01-27,JLPT N4,30,27,5.2,Japanese
+2025-01-27,Spanish Verbs,120,103,22.8,Spanish
+2025-01-29,French Verbs,79,60,26.8,French
+2025-01-29,JLPT N4,40,28,7.0,Japanese
+2025-01-30,Spanish Travel,64,44,16.6,Spanish
+2025-01-30,Core 2K JP,21,18,6.2,Japanese
+2025-01-30,German Top 4K,87,76,15.5,German
+2025-02-01,French Verbs,84,60,22.5,French
+2025-02-01,Spanish Verbs,89,69,15.7,Spanish
+2025-02-01,German Verbs,65,59,18.4,German
+2025-02-02,Spanish 1000,87,69,28.2,Spanish
+2025-02-02,Core 2K JP,97,63,30.1,Japanese
+2025-02-03,French Listening,27,20,6.8,French
+2025-02-04,French Core 5K,51,36,8.1,French
+2025-02-04,Core 2K JP,84,65,13.1,Japanese
+2025-02-06,Spanish Travel,55,43,14.1,Spanish
+2025-02-07,JLPT N5 Kanji,37,28,8.5,Japanese
+2025-02-07,German Grammar,29,24,6.8,German
+2025-02-07,French Core 5K,105,77,18.3,French
+2025-02-08,Core 2K JP,79,56,26.9,Japanese
+2025-02-08,French Verbs,82,57,23.3,French
+2025-02-08,Spanish 1000,40,34,14.0,Spanish
+2025-02-09,JLPT N5 Kanji,31,26,4.8,Japanese
+2025-02-10,French Verbs,62,49,13.0,French
+2025-02-12,Spanish Verbs,54,35,16.5,Spanish
+2025-02-12,French Verbs,116,79,27.2,French
+2025-02-12,JLPT N4,53,40,13.6,Japanese
+2025-02-13,Core 2K JP,55,36,15.8,Japanese
+2025-02-14,French Listening,31,27,5.2,French
+2025-02-16,German Verbs,73,67,14.9,German
+2025-02-16,French Core 5K,25,20,4.9,French
+2025-02-16,Spanish 1000,40,29,7.4,Spanish
+2025-02-18,Spanish Verbs,84,71,17.1,Spanish
+2025-02-18,German Top 4K,52,34,8.0,German
+2025-02-19,German Verbs,103,80,25.6,German
+2025-02-19,French Verbs,84,62,16.2,French
+2025-02-19,Spanish 1000,63,44,20.6,Spanish
+2025-02-19,JLPT N4,101,69,35.1,Japanese
+2025-02-21,JLPT N5 Kanji,40,26,11.3,Japanese
+2025-02-22,Core 2K JP,108,79,26.1,Japanese
+2025-02-22,German Top 4K,54,42,10.9,German
+2025-02-25,Core 2K JP,65,45,14.1,Japanese
+2025-02-26,Spanish 1000,84,74,14.1,Spanish
+2025-02-27,French Verbs,22,16,6.1,French
+2025-02-28,Spanish Travel,83,57,24.5,Spanish
+2025-02-28,JLPT N4,38,25,12.0,Japanese
+2025-02-28,German Verbs,100,77,29.0,German
+2025-02-28,French Listening,37,34,11.1,French
+2025-03-01,French Core 5K,23,15,6.4,French
+2025-03-01,Core 2K JP,68,61,17.8,Japanese
+2025-03-01,German Verbs,22,18,6.3,German
+2025-03-02,French Listening,84,77,14.1,French
+2025-03-03,German Top 4K,53,38,16.0,German
+2025-03-03,Spanish 1000,114,96,27.6,Spanish
+2025-03-04,Core 2K JP,98,82,18.6,Japanese
+2025-03-05,JLPT N4,92,63,22.7,Japanese
+2025-03-06,French Verbs,110,88,26.7,French
+2025-03-06,JLPT N5 Kanji,118,80,38.8,Japanese
+2025-03-06,German Top 4K,59,55,19.9,German
+2025-03-06,Spanish 1000,57,44,17.9,Spanish
+2025-03-08,Spanish 1000,29,23,5.2,Spanish
+2025-03-09,Spanish Travel,66,47,21.7,Spanish
+2025-03-09,JLPT N5 Kanji,70,46,10.6,Japanese
+2025-03-09,German Grammar,107,84,22.5,German
+2025-03-09,French Core 5K,73,54,15.6,French
+2025-03-10,JLPT N5 Kanji,35,32,6.6,Japanese
+2025-03-11,Core 2K JP,70,53,22.7,Japanese
+2025-03-11,Spanish 1000,66,61,19.9,Spanish
+2025-03-13,JLPT N4,39,28,7.9,Japanese
+2025-03-14,JLPT N5 Kanji,23,20,6.4,Japanese
+2025-03-17,French Verbs,77,64,13.7,French
+2025-03-17,JLPT N5 Kanji,82,54,27.5,Japanese
+2025-03-18,JLPT N5 Kanji,58,42,17.3,Japanese
+2025-03-19,Spanish Verbs,81,66,18.5,Spanish
+2025-03-20,Spanish Travel,83,67,20.0,Spanish
+2025-03-21,German Verbs,44,31,8.1,German
+2025-03-21,French Listening,31,23,6.9,French
+2025-03-22,French Listening,72,55,21.5,French
+2025-03-23,French Verbs,55,45,12.2,French
+2025-03-24,Spanish Verbs,51,39,14.2,Spanish
+2025-03-24,French Verbs,59,53,19.2,French
+2025-03-25,German Verbs,82,53,18.7,German
+2025-03-27,German Top 4K,39,27,13.4,German
+2025-03-27,French Core 5K,112,96,35.8,French
+2025-03-27,JLPT N5 Kanji,30,24,4.7,Japanese
+2025-03-28,French Listening,111,82,19.5,French
+2025-03-29,French Core 5K,58,46,15.5,French
+2025-03-29,German Grammar,53,38,14.3,German
+2025-03-30,German Grammar,60,50,19.6,German
+2025-03-31,Spanish 1000,72,62,15.2,Spanish
+2025-04-01,German Top 4K,52,37,12.2,German
+2025-04-02,JLPT N4,73,55,16.7,Japanese
+2025-04-03,French Core 5K,83,78,17.6,French
+2025-04-04,Spanish Verbs,117,107,20.1,Spanish
+2025-04-05,Spanish Verbs,105,70,28.2,Spanish
+2025-04-05,German Grammar,26,18,9.0,German
+2025-04-06,French Core 5K,70,54,20.5,French
+2025-04-07,French Core 5K,62,43,17.4,French
+2025-04-08,JLPT N4,112,85,25.2,Japanese
+2025-04-09,French Core 5K,55,37,12.9,French
+2025-04-11,German Grammar,75,50,21.8,German
+2025-04-11,Spanish 1000,67,54,16.0,Spanish
+2025-04-12,German Verbs,72,52,19.8,German
+2025-04-12,French Verbs,25,19,6.1,French
+2025-04-13,Spanish Travel,28,25,6.1,Spanish
+2025-04-14,French Verbs,20,17,5.4,French
+2025-04-14,Spanish Travel,28,18,5.5,Spanish
+2025-04-14,JLPT N5 Kanji,111,104,37.8,Japanese
+2025-04-14,German Grammar,52,48,16.3,German
+2025-04-15,French Listening,58,52,17.7,French
+2025-04-16,JLPT N5 Kanji,66,58,17.8,Japanese
+2025-04-17,Spanish 1000,72,48,11.3,Spanish
+2025-04-18,German Top 4K,29,21,4.8,German
+2025-04-19,German Top 4K,49,33,11.9,German
+2025-04-21,French Verbs,55,45,12.4,French
+2025-04-21,Spanish Travel,53,37,10.6,Spanish
+2025-04-22,Spanish Verbs,28,21,9.8,Spanish
+2025-04-23,French Listening,79,74,13.5,French
+2025-04-24,German Grammar,49,33,9.2,German
+2025-04-24,Spanish Travel,44,40,9.9,Spanish
+2025-04-24,French Core 5K,77,63,23.5,French
+2025-04-25,Core 2K JP,24,18,4.3,Japanese
+2025-04-26,Spanish 1000,61,47,13.7,Spanish
+2025-04-27,French Verbs,90,71,20.8,French
+2025-04-28,Spanish Travel,31,26,7.1,Spanish
+2025-04-28,JLPT N5 Kanji,72,68,20.4,Japanese
+2025-04-29,JLPT N5 Kanji,73,47,22.1,Japanese
+2025-04-30,German Grammar,46,42,10.9,German
+2025-04-30,Core 2K JP,74,50,12.4,Japanese
+2025-05-01,Spanish 1000,21,13,3.7,Spanish
+2025-05-02,JLPT N4,84,58,18.4,Japanese
+2025-05-03,French Core 5K,69,55,21.5,French
+2025-05-05,French Verbs,60,39,20.1,French
+2025-05-06,Spanish Travel,71,59,13.4,Spanish
+2025-05-06,JLPT N5 Kanji,43,35,6.8,Japanese
+2025-05-06,French Listening,40,30,7.0,French
+2025-05-07,Spanish Travel,116,98,32.9,Spanish
+2025-05-07,French Verbs,35,26,8.4,French
+2025-05-08,German Verbs,51,39,14.4,German
+2025-05-08,Spanish Verbs,84,65,13.0,Spanish
+2025-05-09,Spanish Verbs,117,97,36.7,Spanish
+2025-05-10,German Top 4K,65,50,10.9,German
+2025-05-10,French Verbs,84,67,13.3,French
+2025-05-10,JLPT N4,36,24,10.7,Japanese
+2025-05-11,French Verbs,103,96,18.3,French
+2025-05-11,Core 2K JP,98,85,30.7,Japanese
+2025-05-12,German Top 4K,64,53,12.8,German
+2025-05-12,Spanish Verbs,98,71,30.7,Spanish
+2025-05-12,French Core 5K,52,41,17.4,French
+2025-05-12,Core 2K JP,95,69,23.9,Japanese
+2025-05-13,Spanish Verbs,40,33,8.2,Spanish
+2025-05-14,Core 2K JP,118,95,32.7,Japanese
+2025-05-15,French Listening,67,48,23.3,French
+2025-05-15,Spanish Travel,38,28,11.5,Spanish
+2025-05-15,JLPT N5 Kanji,49,34,14.6,Japanese
+2025-05-16,JLPT N4,20,17,3.9,Japanese
+2025-05-16,Spanish Verbs,98,82,22.9,Spanish
+2025-05-16,German Grammar,26,17,5.1,German
+2025-05-17,French Listening,65,48,16.6,French
+2025-05-18,JLPT N4,37,26,10.2,Japanese
+2025-05-19,Spanish Travel,39,30,6.3,Spanish
+2025-05-20,JLPT N5 Kanji,21,14,6.6,Japanese
+2025-05-20,Spanish Verbs,96,80,22.9,Spanish
+2025-05-22,French Core 5K,27,21,6.2,French
+2025-05-23,French Core 5K,98,79,33.1,French
+2025-05-24,German Verbs,42,33,6.8,German
+2025-05-25,German Grammar,115,106,19.1,German
+2025-05-25,JLPT N4,77,54,26.9,Japanese
+2025-05-25,French Verbs,49,41,8.6,French
+2025-05-25,Spanish Travel,108,100,21.9,Spanish
+2025-05-26,German Verbs,53,39,17.8,German
+2025-05-26,Core 2K JP,30,27,4.6,Japanese
+2025-05-27,Spanish 1000,115,106,21.7,Spanish
+2025-05-28,German Verbs,105,94,27.0,German
+2025-05-28,JLPT N5 Kanji,87,74,28.0,Japanese
+2025-05-29,JLPT N5 Kanji,99,81,26.0,Japanese
+2025-05-29,French Core 5K,38,25,6.6,French
+2025-05-30,Spanish Travel,23,15,4.1,Spanish
+2025-05-31,French Listening,25,16,6.7,French
+2025-06-01,French Core 5K,51,36,8.8,French
+2025-06-01,Core 2K JP,116,97,36.5,Japanese
+2025-06-01,Spanish Travel,100,73,17.0,Spanish
+2025-06-02,Spanish Verbs,63,48,9.7,Spanish
+2025-06-02,German Grammar,56,37,16.9,German
+2025-06-04,German Verbs,115,75,26.7,German
+2025-06-04,Spanish Verbs,86,75,18.9,Spanish
+2025-06-05,Spanish 1000,93,83,17.1,Spanish
+2025-06-05,Core 2K JP,87,61,26.3,Japanese
+2025-06-07,German Verbs,43,40,11.5,German
+2025-06-09,Spanish 1000,109,78,20.0,Spanish
+2025-06-09,German Verbs,118,79,36.3,German
+2025-06-10,Core 2K JP,71,65,23.3,Japanese
+2025-06-10,Spanish Travel,31,24,8.7,Spanish
+2025-06-11,German Verbs,84,58,29.1,German
+2025-06-12,Spanish Verbs,94,70,17.0,Spanish
+2025-06-12,JLPT N5 Kanji,104,84,22.3,Japanese
+2025-06-12,French Verbs,76,65,15.3,French
+2025-06-13,Spanish Travel,44,32,13.2,Spanish
+2025-06-14,Spanish Travel,61,50,13.4,Spanish
+2025-06-14,French Core 5K,61,57,12.3,French
+2025-06-17,Spanish 1000,38,33,11.3,Spanish
+2025-06-17,German Grammar,55,38,15.3,German
+2025-06-18,German Grammar,24,15,7.7,German
+2025-06-19,JLPT N5 Kanji,22,15,6.0,Japanese
+2025-06-20,German Verbs,95,83,22.3,German
+2025-06-20,Core 2K JP,105,90,34.2,Japanese
+2025-06-21,Spanish 1000,102,70,24.1,Spanish
+2025-06-21,JLPT N5 Kanji,100,86,32.9,Japanese
+2025-06-22,Spanish Verbs,74,58,11.4,Spanish
+2025-06-24,Spanish Verbs,119,77,37.6,Spanish
+2025-06-24,Core 2K JP,24,17,4.6,Japanese
+2025-06-25,Spanish Travel,78,63,22.9,Spanish
+2025-06-25,JLPT N4,22,18,6.9,Japanese
+2025-06-25,German Verbs,63,48,21.4,German
+2025-06-25,French Core 5K,107,75,27.0,French
+2025-06-27,French Verbs,68,52,10.4,French
+2025-06-27,Spanish Verbs,73,61,20.8,Spanish
+2025-06-28,JLPT N4,71,66,18.1,Japanese
+2025-06-29,German Top 4K,36,33,5.9,German
+2025-06-29,Spanish Travel,44,34,11.5,Spanish
+2025-06-29,French Core 5K,38,28,10.6,French
+2025-06-30,German Grammar,65,57,12.7,German
+2025-06-30,Spanish Travel,68,58,23.6,Spanish
+2025-06-30,French Listening,43,34,13.4,French
